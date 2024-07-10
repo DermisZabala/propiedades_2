@@ -1,0 +1,16 @@
+C:\Users\HP PROBOOK\source\repos\propiedades_2\bin\Debug\net5.0\propiedades_2.exe
+C:\Users\HP PROBOOK\source\repos\propiedades_2\bin\Debug\net5.0\propiedades_2.deps.json
+C:\Users\HP PROBOOK\source\repos\propiedades_2\bin\Debug\net5.0\propiedades_2.runtimeconfig.json
+C:\Users\HP PROBOOK\source\repos\propiedades_2\bin\Debug\net5.0\propiedades_2.runtimeconfig.dev.json
+C:\Users\HP PROBOOK\source\repos\propiedades_2\bin\Debug\net5.0\propiedades_2.dll
+C:\Users\HP PROBOOK\source\repos\propiedades_2\bin\Debug\net5.0\propiedades_2.pdb
+C:\Users\HP PROBOOK\source\repos\propiedades_2\obj\Debug\net5.0\propiedades_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP PROBOOK\source\repos\propiedades_2\obj\Debug\net5.0\propiedades_2.AssemblyInfoInputs.cache
+C:\Users\HP PROBOOK\source\repos\propiedades_2\obj\Debug\net5.0\propiedades_2.AssemblyInfo.cs
+C:\Users\HP PROBOOK\source\repos\propiedades_2\obj\Debug\net5.0\propiedades_2.csproj.CoreCompileInputs.cache
+C:\Users\HP PROBOOK\source\repos\propiedades_2\obj\Debug\net5.0\propiedades_2.sourcelink.json
+C:\Users\HP PROBOOK\source\repos\propiedades_2\obj\Debug\net5.0\propiedades_2.dll
+C:\Users\HP PROBOOK\source\repos\propiedades_2\obj\Debug\net5.0\refint\propiedades_2.dll
+C:\Users\HP PROBOOK\source\repos\propiedades_2\obj\Debug\net5.0\propiedades_2.pdb
+C:\Users\HP PROBOOK\source\repos\propiedades_2\obj\Debug\net5.0\propiedades_2.genruntimeconfig.cache
+C:\Users\HP PROBOOK\source\repos\propiedades_2\obj\Debug\net5.0\ref\propiedades_2.dll
